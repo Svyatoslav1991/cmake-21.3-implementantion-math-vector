@@ -1,5 +1,0 @@
-# ninja log v5
-1	489	699320394	CMakeFiles/3_implementation_math_vector.dir/src/mathvector.cpp.obj	7e6ae66dca8b711d
-10	502	699320394	CMakeFiles/3_implementation_math_vector.dir/src/functions.cpp.obj	269753e6fe71ec1e
-18	508	699320394	CMakeFiles/3_implementation_math_vector.dir/src/main.cpp.obj	ff3e2a8de1edce0b
-508	1801	699320395	3_implementation_math_vector.exe	cbb7d7310f48fd09
